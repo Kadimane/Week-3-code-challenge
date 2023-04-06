@@ -1,0 +1,17 @@
+ul { 
+    float: left; 
+  } 
+  
+  img { 
+    width: 500px; 
+    height: 500px; 
+    float: left; 
+    padding-left: 7px; 
+    padding-right: 7px; 
+  } 
+  
+  .buy-tickets{
+    float : left; 
+  }
+  
+  
